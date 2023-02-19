@@ -6,7 +6,9 @@
 
 This Jupyter notebook use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties.
 
--  Observations that the proportion of left-handers in the population decreases substantially with age (diminishing from 13 percent in 20-year-olds to less than 1 percent in 80-year-olds) have led to the suggestion that sinistrality may be associated with decreased life span. In this project I have studied this through the data generated in the past decade on mortality according to age in USA combined with the National Geographic survey of 1986 with over a million responses that included age, sex, and hand preference for throwing and writing
+-  Observations that the proportion of left-handers in the population decreases substantially with age (diminishing from 13 percent in 20-year-olds to less than 1 percent in 80-year-olds) have led to the suggestion that sinistrality may be associated with decreased life span. 
+
+-  In this project I have studied this through the data generated in the past decade on mortality according to age in USA combined with the National Geographic survey of 1986 with over a million responses that included age, sex, and hand preference for throwing and writing
 
 - Datasets are available in the Jupyter notebook 
 
